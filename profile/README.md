@@ -11,10 +11,6 @@
  BAAS solution that will facilitate 
 your flutter application development using our flutter package.
 
-## Contributing
-We are open to contributions. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct,
-and the process for submitting pull requests to us.
-
 ## Authors
 ### BackAppX Dev Team
 * **[Karam MANNAI]("https://github.com/KvRae")** - *Team Lead, Software Engineer*
@@ -25,6 +21,11 @@ and the process for submitting pull requests to us.
 ### BackAppX Coaching Team
 * **[Khaled Guedria]("https://github.com/khaledGuedria")** - *Product Owner,Scrum Master, Software Engineer*
 * **[Ghassen Klai]("https://github.com/KlaiGhassen")** - *Scrum Master, Software Engineer*
+
+
+## Contributing
+We are open to contributions. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct,
+and the process for submitting pull requests to us.
 
 
 ## License
