@@ -13,7 +13,7 @@
 
 # BackAppX
  BAAS solution that will facilitate 
-your flutter application development using our flutter package.
+your flutter application development using our flutter SDK package.
 
 ## Authors
 ### BackAppX Dev Team
