@@ -1,4 +1,6 @@
 ![logo](https://github.com/BackAppX/.github/assets/58667227/bae3d1e7-6927-4cb5-b656-64dc775a8532)
+<div align="center">
+ 
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 ![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)
 ![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)
@@ -6,6 +8,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/BackAppX/BackAppX)
 ![GitHub contributors](https://img.shields.io/github/contributors/BackAppX/BackAppX)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BackAppX/BackAppX)
+
+</div>
 
 # BackAppX
  BAAS solution that will facilitate 
