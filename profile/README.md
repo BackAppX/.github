@@ -9,11 +9,11 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/BackAppX/BackAppX)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BackAppX/BackAppX)
 
-</div>
 
-# BackAppX
  BAAS solution that will facilitate 
 your flutter application development using our flutter SDK package.
+
+</div>
 
 ## Authors
 ### BackAppX Dev Team
