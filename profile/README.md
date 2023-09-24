@@ -17,10 +17,10 @@ your flutter application development using our flutter SDK package.
 
 ## Authors
 ### BackAppX Dev Team
-* **[Karam MANNAI]("https://github.com/KvRae")** - *Team Lead, Software Engineer*
+* **[Karam MANNAI]("https://github.com/KvRae")** - *Team Lead, SDK developer, Software Engineer*
 * **[Mohamed Yassine Khabthani]("https://github.com/medyassin-khabthani")** - *Software Engineer & UI/UX Designer*
-* **[Fedi Abdennabi]("https://github.com/fedi-abdennabi")** - *Software Engineer*
-* **[Yosri Zaghouani]("https://github.com/YosriZaghouani21")** - *Software Developer*
+* **[Fedi Abdennabi]("https://github.com/fedi-abdennabi")** - *Documentation manager, Software Engineer*
+* **[Yosri Zaghouani]("https://github.com/YosriZaghouani21")** - *Backend Developer, Software Engineer*
 * **[Ahmed Mahouachi]("https://github.com/ahmedMahoauchi")** - *Software Engineer*
 ### BackAppX Coaching Team
 * **[Khaled Guedria]("https://github.com/khaledGuedria")** - *Product Owner,Scrum Master, Software Engineer*
