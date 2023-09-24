@@ -1,4 +1,4 @@
-![logo](https://github.com/BackAppX/.github/assets/58667227/471ddbe1-e003-4ca0-9a55-b66e761038b4)
+![logo](https://github.com/BackAppX/.github/assets/58667227/bae3d1e7-6927-4cb5-b656-64dc775a8532)
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 ![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)
 ![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)
