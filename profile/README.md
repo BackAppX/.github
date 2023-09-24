@@ -3,9 +3,9 @@
 ![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)
 ![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)
-![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Naereen/StrapDown.js.svg)
+![GitHub issues](https://img.shields.io/github/issues/BackAppX/BackAppX)
+![GitHub contributors](https://img.shields.io/github/contributors/BackAppX/BackAppX)
+![GitHub last commit](https://img.shields.io/github/last-commit/BackAppX/BackAppX)
 
 # BackAppX
  BAAS solution that will facilitate 
