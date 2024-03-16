@@ -22,7 +22,7 @@ your flutter application development using our flutter SDK package.
 * **[Fedi Abdennabi]("https://github.com/fedi-abdennabi")** - *Documentation manager, Software Engineer*
 * **[Yosri Zaghouani]("https://github.com/YosriZaghouani21")** - *Backend Developer, Software Engineer*
 * **[Ahmed Mahouachi]("https://github.com/ahmedMahoauchi")** - *Software Engineer*
-### BackAppX PMO Team
+### BackAppX PM Team
 * **[Khaled Guedria]("https://github.com/khaledGuedria")** - *Product Owner,Scrum Master, Software Engineer*
 * **[Ghassen Klai]("https://github.com/KlaiGhassen")** - *Scrum Master, Software Engineer*
 
