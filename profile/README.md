@@ -11,7 +11,7 @@
 
 
  BAAS solution that will facilitate 
-your flutter application development using our flutter SDK package.
+your mobile application development using our SDK packages.
 
 </div>
 
