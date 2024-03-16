@@ -51,4 +51,4 @@ This section lists the labels we use to help us track and manage issues and pull
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the Your Project Name Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to bach.app.xl@gmail.com.
+This project and everyone participating in it is governed by the Your Project Name Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to bach.app.x@gmail.com.
