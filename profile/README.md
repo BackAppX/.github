@@ -23,7 +23,7 @@ your mobile application development using our SDK packages.
 * **[Yosri Zaghouani]("https://github.com/YosriZaghouani21")** - *Backend Developer, Software Engineer*
 * **[Ahmed Mahouachi]("https://github.com/ahmedMahoauchi")** - *Software Engineer*
 ### BackAppX PM Team
-* **[Khaled Guedria]("https://github.com/khaledGuedria")** - *Product Owner,Scrum Master, Software Engineer*
+* **[Khaled Guedria]("https://github.com/khaledGuedria")** - *Product Owner, Scrum Master, Software Engineer*
 * **[Ghassen Klai]("https://github.com/KlaiGhassen")** - *Scrum Master, Software Engineer*
 
 
